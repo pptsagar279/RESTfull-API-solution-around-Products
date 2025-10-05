@@ -1,0 +1,12 @@
+tests/
+*.Tests.csproj
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+*.user
+*.suo
+*.cache
+.git/
+.gitignore
+README.md
